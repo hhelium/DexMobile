@@ -8,7 +8,7 @@ This repository contains the simulation environment for the DexHusky mobile plat
 <img src="images/t4.gif" alt="simu env" width="280"/>
 </p>
 
-# dexHusky Mobile Platform
+# DexHusky Mobile Platform
 
 The platform consists of a Husky UGV (Unmanned Ground Vehicle) for mobility, two UR5e robotic arms, a Schunk SVH robotic hand (right), and a PSYONIC Ability Hand (left). Each robotic hand is mounted on a UR5e arm, and both arms are integrated with the Husky base.
 <p align="center"> 
@@ -17,7 +17,7 @@ The platform consists of a Husky UGV (Unmanned Ground Vehicle) for mobility, two
 The simulation environment is developed using PyBullet within the Gym framework. It supports reinforcement learning and enables various applications, including dexterous manipulation, dual-arm coordination, or autonomous navigation tasks.
 
 # Context-Aware Task-Oriented Grasping
-A reinforcement learning framework that incorporates a Contextual Reward Machine for context-aware task-oriented grasping is proposed and implemented based on the dexHusky platform.
+A reinforcement learning framework that incorporates a Contextual Reward Machine for context-aware task-oriented grasping is proposed and implemented based on the DexHusky platform.
 
 <p align="center"> <img src="images/system.jpg" alt="System Structure" width="660"/></p>
 
