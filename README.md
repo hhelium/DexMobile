@@ -1,5 +1,5 @@
 # Overview
-This repository contains the simulation environment for the DexHusky mobile platform and the source code for the CRM-PPO reinforcement learning model.
+This repository provides the simulation environment for the DexHusky mobile platform and the source code for the CRM-PPO reinforcement learning model, designed for task-oriented grasping.
 
 <p align="center"> 
 <img src="images/t1.gif" alt="simu env" width="280"/>
